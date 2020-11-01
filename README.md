@@ -1,6 +1,6 @@
 # Hello World! <img src="https://github.com/mikigal/mikigal/blob/master/hi.gif" width="35px" />
 
-Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as freelancer, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with String, Go, PHP and more. Contact me if you have some questions!
+Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as freelancer, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Spring, Go, PHP and more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
 - 👨‍💻 I'm 18 years old Java Developer
