@@ -42,5 +42,3 @@ Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as fr
   <img src="https://github-readme-stats.vercel.app/api?username=mikigal&show_icons=true&theme=radical&line_height=27&count_private=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&hide=css,html&theme=radical" />
 </div>
-
-<p align="center" style="margin-top: 20px;">👇 *Check my repositories!* 👇</p>
