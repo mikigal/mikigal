@@ -22,7 +22,7 @@ Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as fr
 [<img src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://spring.io/)
 [<img src="https://img.shields.io/badge/hibernate%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />](https://hibernate.org/)
 [<img src="https://img.shields.io/badge/bukkit%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/)
-[<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/) 
+[<img src="https://img.shields.io/badge/bungeecord%20-%23DB1F29.svg?&style=for-the-badge&logo=mojang-studios&logoColor=white" />](https://www.spigotmc.org/wiki/about-bungeecord/)
 [<img src="https://img.shields.io/badge/go%20-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />](https://golang.org/)
 [<img src="https://img.shields.io/badge/php%20-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />](https://www.php.net/)
 [<img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" />](https://www.mysql.com/)
@@ -37,8 +37,8 @@ Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as fr
 [<img src="https://img.shields.io/badge/postman%20-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white" />](https://www.postman.com/)
 [<img src="https://img.shields.io/badge/git%20-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/)
 
-#### 📈 My Github Stats: 
+#### 📈 My Github Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mikigal&show_icons=true&theme=radical&line_height=27&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&hide=css,html&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mikigal&show_icons=true&theme=radical&line_height=24&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mikigal&theme=radical&layout=compact" />
 </div>
