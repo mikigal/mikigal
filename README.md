@@ -3,7 +3,7 @@
 Hi, I'm Mikołaj. I am a Java developer from Poland. I'm currently working as freelancer, mainly as Bukkit and Bungeecord plugins programmer. I did some projects with Spring, Go, PHP and more. Contact me if you have some questions!
 
 #### 👨‍💼 About me:
-- 👨‍💻 I'm 20 years old Java Developer
+- 👨‍💻 I'm 21 years old Java Developer
 - 📖 Learing backend web development, mainly Spring with Hibernate
 - 💰 Currently working as freelancer, coding Bukkit and BungeeCord plugins
 - 🛠️ Love Hackintoshes and iOS jailbreaking
